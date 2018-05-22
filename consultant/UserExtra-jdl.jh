@@ -1,0 +1,9 @@
+entity UserExtra {
+	UserExtraId String,
+	num_sec_soc String,
+    fonction String,
+    date_entree Date,
+    telephone Long
+
+}
+

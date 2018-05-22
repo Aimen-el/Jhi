@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88353d0d-94ca-4a9e-abaa-3efac01bac41" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/consultant/target/" />
+    <ignored path="$PROJECT_DIR$/dashboard/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Extra.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dashboard/src/main/java/com/leanovia/dashboard/domain/Extra.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="17" column="20" selection-end-line="164" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="entity.module.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dashboard/src/main/webapp/app/entities/entity.module.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExtraResource.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dashboard/src/main/java/com/leanovia/dashboard/web/rest/ExtraResource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.component.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dashboard/src/main/webapp/app/home/home.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-198">
+              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.component.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dashboard/src/main/webapp/app/home/home.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="extra-update.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dashboard/src/main/webapp/app/entities/extra/extra-update.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="66" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/consultant/src/main/resources/static/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserResource.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/consultant/src/main/java/com/leanovia/consultant/web/rest/UserResource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dashboard/src/main/webapp/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="banner.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dashboard/src/main/resources/banner.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>err</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/consultant/src/main/java/com/leanovia/consultant/repository/UserExtraRepository.java" />
+        <option value="$PROJECT_DIR$/consultant/src/main/resources/config/application.yml" />
+        <option value="$PROJECT_DIR$/consultant/src/main/java/com/leanovia/consultant/service/UserService.java" />
+        <option value="$PROJECT_DIR$/consultant/src/main/resources/config/liquibase/users.csv" />
+        <option value="$PROJECT_DIR$/consultant/src/main/resources/config/liquibase/changelog/00000000000000_initial_schema.xml" />
+        <option value="$PROJECT_DIR$/consultant/src/main/java/com/leanovia/consultant/web/rest/UserResource.java" />
+        <option value="$PROJECT_DIR$/consultant/src/main/java/com/leanovia/consultant/repository/UserRepository.java" />
+        <option value="$PROJECT_DIR$/consultant/src/main/java/com/leanovia/consultant/domain/User.java" />
+        <option value="$PROJECT_DIR$/consultant/src/main/java/com/leanovia/consultant/config/SecurityConfiguration.java" />
+        <option value="$PROJECT_DIR$/dashboard/src/main/resources/config/liquibase/changelog/00000000000000_initial_schema.xml" />
+        <option value="$PROJECT_DIR$/dashboard/src/main/resources/config/liquibase/users.csv" />
+        <option value="$PROJECT_DIR$/consultant/UserExtra-jdl.jh" />
+        <option value="$PROJECT_DIR$/consultant/src/test/java/com/leanovia/consultant/ConsultantAppTest.java" />
+        <option value="$PROJECT_DIR$/consultant/src/test/java/com/leanovia/consultant/web/rest/UserExtraResourceIntTest.java" />
+        <option value="$PROJECT_DIR$/consultant/src/main/java/com/leanovia/consultant/domain/UserExtra.java" />
+        <option value="$PROJECT_DIR$/dashboard/src/main/java/com/leanovia/dashboard/domain/UserExtra.java" />
+        <option value="$PROJECT_DIR$/dashboard/src/test/java/com/leanovia/dashboard/web/rest/ExtraResourceIntTest.java" />
+        <option value="$PROJECT_DIR$/dashboard/src/main/java/com/leanovia/dashboard/domain/Extra.java" />
+        <option value="$PROJECT_DIR$/dashboard/src/main/resources/config/liquibase/changelog/20180522003210_added_entity_Extra.xml" />
+        <option value="$PROJECT_DIR$/dashboard/src/main/webapp/app/entities/extra/extra.route.ts" />
+        <option value="$PROJECT_DIR$/dashboard/src/main/webapp/app/entities/extra/extra.service.ts" />
+        <option value="$PROJECT_DIR$/dashboard/src/main/webapp/app/entities/extra/extra-update.component.ts" />
+        <option value="$PROJECT_DIR$/dashboard/src/main/webapp/app/entities/extra/extra-detail.component.ts" />
+        <option value="$PROJECT_DIR$/dashboard/src/main/webapp/app/entities/extra/extra-delete-dialog.component.ts" />
+        <option value="$PROJECT_DIR$/dashboard/src/main/webapp/app/entities/extra/extra.component.ts" />
+        <option value="$PROJECT_DIR$/dashboard/src/main/webapp/app/home/home.component.ts" />
+        <option value="$PROJECT_DIR$/consultant/src/main/resources/config/liquibase/changelog/20180522003210_added_entity_Extra.xml" />
+        <option value="$PROJECT_DIR$/consultant/.jhipster/Extra.json" />
+        <option value="$PROJECT_DIR$/dashboard/src/main/webapp/app/layouts/navbar/navbar.component.html" />
+        <option value="$PROJECT_DIR$/dashboard/src/main/webapp/app/home/home.component.html" />
+        <option value="$PROJECT_DIR$/dashboard/src/main/webapp/app/entities/extra/extra.component.html" />
+        <option value="$PROJECT_DIR$/consultant/src/main/java/com/leanovia/consultant/domain/Extra.java" />
+        <option value="$PROJECT_DIR$/dashboard/src/test/javascript/spec/app/entities/extra/extra.component.spec.ts" />
+        <option value="$PROJECT_DIR$/dashboard/src/main/webapp/app/entities/entity.module.ts" />
+        <option value="$PROJECT_DIR$/dashboard/src/main/webapp/app/entities/extra/extra-update.component.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/consultant/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/consultant/package.json" />
+      <path value="$PROJECT_DIR$/dashboard/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="47" />
+    <option name="width" value="1366" />
+    <option name="height" value="741" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Jh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Jh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jh" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Jh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jh" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Jh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jh" type="462c0819:PsiDirectoryNode" />
+              <item name="dashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/dashboard/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.leanovia.consultant" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dashboard/src/main/webapp/app/shared/model" />
+      <recent name="$PROJECT_DIR$/dashboard/src/main/webapp/app/shared/model/consultant" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dashboard" />
+      <recent name="$PROJECT_DIR$/consultant" />
+      <recent name="$PROJECT_DIR$/consultant/src/main/resources/config" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ConsultantApp">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="ConsultantApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="consultant" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leanovia.consultant.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leanovia.consultant.ConsultantApp" />
+    </configuration>
+    <configuration name="DashboardApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dashboard" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leanovia.dashboard.DashboardApp" />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.DashboardApp" />
+      <item itemvalue="Spring Boot.ConsultantApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ConsultantApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88353d0d-94ca-4a9e-abaa-3efac01bac41" name="Default" comment="" />
+      <created>1526735409122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526735409122</updated>
+      <workItem from="1526735410724" duration="9405000" />
+      <workItem from="1526930540627" duration="4678000" />
+      <workItem from="1526947957456" duration="20047000" />
+      <workItem from="1526973092548" duration="4528000" />
+      <workItem from="1526983287458" duration="972000" />
+      <workItem from="1526988500443" duration="1125000" />
+    </task>
+    <task id="LOCAL-00001" summary="directory mapping">
+      <created>1526736064038</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526736064038</updated>
+    </task>
+    <task id="LOCAL-00002" summary="User table/class modifications">
+      <created>1526740135732</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1526740135732</updated>
+    </task>
+    <task id="LOCAL-00003" summary="User Extra table/class modifications">
+      <created>1526959847879</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1526959847879</updated>
+    </task>
+    <task id="LOCAL-00004" summary="edit only by Admin Role">
+      <created>1526964770509</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1526964770509</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Minor changes to the gateway">
+      <created>1526972595270</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1526972595270</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="41919000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1600" height="873" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32928678" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info anchor="bottom" id="TypeScript" order="0" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="11" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.471246" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info id="Image Layers" order="4" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32956153" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="3" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="15" weight="0.32956153" />
+      <window_info anchor="bottom" id="Spring" order="12" weight="0.32869565" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="5" visible="true" weight="0.35219237" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.29445878" />
+      <window_info anchor="bottom" id="Problems" order="13" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Nl-Palette" order="0" />
+      <window_info anchor="bottom" id="TypeScript" order="0" />
+      <window_info anchor="right" id="Database" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="5" visible="true" weight="0.35219237" />
+      <window_info id="UI Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.2905928" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32928678" />
+      <window_info anchor="right" id="Data View" order="9" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" order="12" weight="0.32869565" />
+      <window_info id="Image Layers" order="4" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32869565" />
+      <window_info anchor="right" id="Properties" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Problems" order="13" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32956153" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="3" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="15" weight="0.32956153" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32869565" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.471246" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="directory mapping" />
+    <MESSAGE value="User table/class modifications" />
+    <MESSAGE value="User Extra table/class modifications" />
+    <MESSAGE value="edit only by Admin Role" />
+    <MESSAGE value="Minor changes to the gateway" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minor changes to the gateway" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dashboard/src/main/resources/config/liquibase/master.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/src/main/resources/config/liquibase/changelog/00000000000000_initial_schema.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-328">
+          <caret line="18" column="40" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/src/main/resources/config/liquibase/changelog/20180522003210_added_entity_Extra.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/src/main/resources/config/liquibase/changelog/20180522003210_added_entity_constraints_Extra.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/src/main/webapp/app/entities/extra/extra-detail.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="39" column="21" selection-start-line="35" selection-start-column="11" selection-end-line="39" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/src/main/webapp/app/entities/extra/extra.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="19" selection-start-line="19" selection-end-line="25" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/src/main/webapp/app/entities/extra/extra.route.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="50" selection-start-line="3" selection-start-column="50" selection-end-line="3" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/src/main/webapp/app/entities/extra/extra.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/src/main/webapp/app/entities/extra/extra-delete-dialog.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/src/main/webapp/app/entities/extra/index.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/src/main/webapp/app/entities/extra/extra-update.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/src/main/webapp/app/entities/extra/extra-detail.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/src/main/webapp/app/entities/extra/extra-delete-dialog.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/src/main/webapp/app/entities/extra/extra.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/src/main/webapp/app/core/auth/principal.service.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/src/main/webapp/app/home/home.route.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/src/main/webapp/app/home/home.module.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/src/main/webapp/app/shared/auth/has-any-authority.directive.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-126">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consultant/UserExtra-jdl.jh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/.angular-cli.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/.prettierrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/.prettierignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consultant/src/main/resources/config/liquibase/changelog/20180522003210_added_entity_Extra.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="43" column="55" selection-start-line="43" selection-start-column="55" selection-end-line="43" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consultant/src/main/resources/config/liquibase/changelog/20180522003210_added_entity_constraints_Extra.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consultant/src/main/resources/config/liquibase/changelog/00000000000000_initial_schema.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" column="11" selection-start-line="30" selection-start-column="11" selection-end-line="31" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/.jhipster/Extra_Old.json" />
+    <entry file="file://$PROJECT_DIR$/dashboard/.yo-rc.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consultant/.jhipster/Extra.json" />
+    <entry file="file://$PROJECT_DIR$/dashboard/src/main/webapp/app/shared/model/consultant/dejeudi.model.ts" />
+    <entry file="file://$PROJECT_DIR$/dashboard/.jhipster/Extra.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/src/main/webapp/app/shared/model/extra.model.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/src/main/webapp/app/layouts/navbar/navbar.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/src/main/webapp/app/entities/extra/extra.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/src/main/java/com/leanovia/dashboard/repository/ExtraRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/src/main/java/com/leanovia/dashboard/web/rest/ExtraResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/src/main/java/com/leanovia/dashboard/domain/Extra.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="17" column="20" selection-end-line="164" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/src/test/javascript/spec/app/entities/extra/extra.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consultant/src/main/java/com/leanovia/consultant/domain/Extra.java" />
+    <entry file="file://$PROJECT_DIR$/dashboard/src/main/webapp/app/entities/consultant/extra/extra.component.html" />
+    <entry file="file://$PROJECT_DIR$/dashboard/src/main/webapp/app/entities/consultant/extra/extra.component.ts" />
+    <entry file="file://$PROJECT_DIR$/dashboard/src/main/webapp/app/entities/consultant/extra/extra.route.ts" />
+    <entry file="file://$PROJECT_DIR$/dashboard/src/main/webapp/app/entities/consultant/extra/extra-update.component.html" />
+    <entry file="file://$PROJECT_DIR$/dashboard/src/main/webapp/app/entities/entity.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/src/main/webapp/app/home/home.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-198">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/src/main/webapp/app/home/home.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/src/main/webapp/app/entities/extra/extra-update.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="66" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard/src/main/resources/banner.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consultant/src/main/resources/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consultant/src/main/java/com/leanovia/consultant/web/rest/UserResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="56" column="13" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>consultant:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>consultant</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
