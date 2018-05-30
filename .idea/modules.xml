@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Jh.iml" filepath="$PROJECT_DIR$/.idea/Jh.iml" />
       <module fileurl="file://$PROJECT_DIR$/consultant/consultant.iml" filepath="$PROJECT_DIR$/consultant/consultant.iml" />
       <module fileurl="file://$PROJECT_DIR$/dashboard/dashboard.iml" filepath="$PROJECT_DIR$/dashboard/dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msconsultant/msconsultant.iml" filepath="$PROJECT_DIR$/msconsultant/msconsultant.iml" />
     </modules>
   </component>
 </project>

@@ -25,11 +25,15 @@
         </processorPath>
         <module name="consultant" />
         <module name="dashboard" />
+        <module name="gateway" />
+        <module name="msconsultant" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="consultant" target="1.8" />
       <module name="dashboard" target="1.8" />
+      <module name="gateway" target="1.8" />
+      <module name="msconsultant" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

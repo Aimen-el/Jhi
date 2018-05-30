@@ -1,0 +1,42 @@
+{
+    "fluentMethods": true,
+    "clientRootFolder": "",
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "titre",
+            "fieldType": "String",
+            "fieldValidateRules": []
+        },
+        {
+            "fieldName": "auteur",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "edition",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "isbn",
+            "fieldType": "String",
+            "fieldValidateRules": []
+        },
+        {
+            "fieldName": "dateachat",
+            "fieldType": "LocalDate"
+        },
+        {
+            "fieldName": "diponibilite",
+            "fieldType": "Boolean",
+            "fieldValidateRules": []
+        }
+    ],
+    "changelogDate": "20180523115447",
+    "dto": "no",
+    "service": "no",
+    "entityTableName": "bibleo",
+    "jpaMetamodelFiltering": false,
+    "pagination": "no",
+    "microserviceName": "bibleo",
+    "searchEngine": false
+}

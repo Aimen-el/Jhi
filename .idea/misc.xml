@@ -3,12 +3,16 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/consultant" />
     <file type="web" url="file://$PROJECT_DIR$/dashboard" />
+    <file type="web" url="file://$PROJECT_DIR$/gateway" />
+    <file type="web" url="file://$PROJECT_DIR$/msconsultant" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/dashboard/pom.xml" />
         <option value="$PROJECT_DIR$/consultant/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/msconsultant/pom.xml" />
       </list>
     </option>
   </component>
